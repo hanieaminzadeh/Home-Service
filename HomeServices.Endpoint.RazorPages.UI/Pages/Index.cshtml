@@ -1,0 +1,41 @@
+﻿@page
+@using HomeService.Core.Contracts.CategoryContracts
+@using HomeService.Core.Contracts.ServiceContracts
+@inject ICategoryAppService CategoryAppService;
+@inject IServiceAppService ServiceAppService;
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    Layout = "_Layout";
+}
+<!-- ======================= Home Banner ======================== -->
+<div class="home-banner margin-bottom-0" style="background:#f41b3b url(/assets/img/banner.jpg) no-repeat;" data-overlay="4">
+</div>
+<!-- =========================== Listing Category ======================= -->
+<section class="gray middle min">
+    <div class="container">
+
+        <div class="row">
+            <div class="col-xl-12 col-lg-12 col-md-12 col-12">
+                <div class="sec_title position-relative text-center mb-5">
+                    <h4 class="ft-bold ff-second">انتخاب دسته بندی انتخابی شما</h4>
+                </div>
+            </div>
+        </div>
+        <div class="row align-items-center">
+            @foreach (var category in await @CategoryAppService.GetAllCategories(default))
+            {
+                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6">
+                    <div class="Goodup-img-catg-wrap">
+                        <div class="Goodup-img-catg-thumb"><a asp-page="ListingServices" asp-route-categoryId="@category.Id"><img src="@category.ImgUrl" class="img-fluid" alt=""></a></div>
+                        <div class="Goodup-img-catg-caption">
+                            <h4 class="fs-md mb-0 ft-medium m-catrio">@category.Name</h4>
+                            <a asp-page="ListingServices" asp-route-categoryId="@category.Id" class="Goodup-cat-arrow"><i class="lni lni-arrow-left-circle"></i></a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+<!-- =========================== Listing Category End ===================== -->

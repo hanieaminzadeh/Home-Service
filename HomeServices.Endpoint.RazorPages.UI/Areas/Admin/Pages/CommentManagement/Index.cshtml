@@ -1,0 +1,72 @@
+﻿@page
+@using HomeService.Core.Contracts.CommentContracts
+@inject ICommentAppService CommentAppService
+@model HomeServices.Endpoint.RazorPages.UI.Areas.Admin.Pages.CommentManagement.IndexModel
+@{
+    Layout = "Shared/_AdminLayout";
+    ViewData["Title"] = "مدیریت کامنت ها";
+}
+
+<div class="table-responsive text-nowrap">
+    <table class="table">
+        <thead class="table-dark">
+            <tr>
+                <th>شناسه</th>
+                <th>نام مشتری</th>
+                <th>متن کامنت</th>
+                <th>امتیازدهی</th>
+                <th>وضعیت</th>
+                <th>عملیات</th>
+                <th>حذف کامنت</th>
+            </tr>
+        </thead>
+        <tbody class="table-border-bottom-0">
+            @if (Model.Comments != null)
+            {
+                @foreach (var comment in Model.Comments)
+                {
+                    <tr>
+                        <td>@comment.Id</td>
+                        <td>@comment.Customer.FirstName @comment.Customer.LastName</td>
+                        <td>@comment.CommentText</td>
+                        <td>@comment.Score</td>
+                        @if (comment.Active == false)
+                        {
+                            <td style="color:red">
+                                تایید نشده
+                            </td>
+                        }
+                        @if (comment.Active == true)
+                        {
+                            <td style="color:green">
+                                تایید شده
+                            </td>
+                        }
+                        @if (comment.Active == false)
+                        {
+                            <td>
+                                <a asp-route-id="@comment.Id" asp-page="Index" asp-page-handler="Active" class="card-link rounded-pill btn btn-success">تایید</a>
+                            </td>
+                        }
+                        @if (comment.Active == true)
+                        {
+                            <td>
+                                <a asp-route-id="@comment.Id" asp-page="Index" asp-page-handler="DeActive" class="card-link rounded-pill btn btn-danger">رد کردن</a>
+                            </td>
+                        }
+                        <td>
+                            <div class="dropdown">
+                                <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
+                                    <i class="bx bx-dots-vertical-rounded"></i>
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" asp-page-handler="Delete" asp-route-id="@comment.Id" onclick="return confirm('Are you sure?')" class="bx bx-trash me-1">حذف</a>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

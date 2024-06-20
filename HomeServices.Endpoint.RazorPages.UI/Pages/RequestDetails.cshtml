@@ -1,0 +1,88 @@
+﻿@page
+@using Framework
+@model HomeServices.Endpoint.RazorPages.UI.Pages.RequestDetailsModel
+@{
+    Layout = "Shared/_Layout-Account";
+}
+<!-- ======================= dashboard Detail ======================== -->
+<div class="goodup-dashboard-content">
+    <div class="dashboard-widg-bar d-block">
+        <div class="row">
+            <div class="col-xl-12 col-lg-12">
+                <div class="dashboard-list-wraps bg-white rounded mb-4">
+                    <div class="dashboard-list-wraps-head br-bottom py-3 px-3">
+                        <div class="dashboard-list-wraps-flx">
+                            <h4 class="mb-0 ft-medium fs-md"><i class="fas fa-shopping-basket ms-2 theme-cl fs-sm"></i>لیست رزروها</h4>
+                        </div>
+                    </div>
+                    <div class="dashboard-list-wraps-body py-3 px-3">
+                        <div class="dashboard-bookings-wraps">
+                            <!-- Single booking List -->
+                            <div class="dsd-single-bookings-wraps">
+                                <div class="dsd-single-book-thumb"><a asp-route-expertId="@Model.Order.ServiceName" asp-page="Comment"><img src="" class="img-fluid circle" alt="" /></a></div>
+                                <div class="dsd-single-book-caption">
+                                    <div class="dsd-single-book-title"><h5>@Model.Order.Customer.FirstName @Model.Order.Customer.LastName</h5></div>
+                                    @if (@Model.Order.Status == HomeService.Core.Enums.RequestStatus.CheckingAndWaitingExpert)
+                                    {
+                                    <div class="ico-content">
+                                        <ul>
+                                            <li><div class="px-2 py-1 medium bg-light-success rounded">پیشنهاد شما توسط مشتری تایید شد و در انتظار تماس شماست</div></li>
+                                        </ul>
+                                    </div>
+                                    }
+                                    @if (@Model.Order.Status == HomeService.Core.Enums.RequestStatus.Registered && !Model.Order.Bids.Any(x => x.ExpertId == Model.ExpertId))
+                                    {
+                                        <div class="ico-content">
+                                            <ul>
+                                                <li><div class="px-2 py-1 medium bg-light-wrning rounded text-warning">درخواست توسط مشتری ثبت شده است</div></li>
+                                            </ul>
+                                        </div>
+                                    }
+                                    @if (@Model.Order.Status == HomeService.Core.Enums.RequestStatus.Registered && Model.Order.Bids.Any(x => x.ExpertId == Model.ExpertId))
+                                    {
+                                        <div class="ico-content">
+                                            <ul>
+                                                <li><div class="px-2 py-1 medium bg-light-wrning rounded text-warning">پیشنهاد شما هنوز توسط مشتری تایید نشده</div></li>
+                                            </ul>
+                                        </div>
+                                    }
+                                    @if (@Model.Order.Status == HomeService.Core.Enums.RequestStatus.Rejected)
+                                    {
+                                        <div class="ico-content">
+                                            <ul>
+                                                <li><div class="px-2 py-1 medium bg-light-danger rounded text-danger">پیشنهاد شما توسط مشتری رد شد</div></li>
+                                            </ul>
+                                        </div>
+                                    }
+                                    @if (@Model.Order.Status == HomeService.Core.Enums.RequestStatus.Done)
+                                    {
+                                        <div class="ico-content">
+                                            <ul>
+                                                <li><div class="px-2 py-1 medium bg-light-success rounded text-success">کار به پایان رسید</div></li>
+                                            </ul>
+                                        </div>
+                                    }
+
+                                    <div class="dsd-single-descr">
+                                        <div class="dsd-single-item"><span class="dsd-item-title">تاریخ رزرو:</span><span class="dsd-item-info">@Model.Order.Customer.CreatAt.ToPersianString("yyyy/MM/dd")</span></div>
+                                        <div class="dsd-single-item"><span class="dsd-item-title">پست الکترونیک:</span><span class="dsd-item-info">@Model.Order.Customer.ApplicationUser.Email</span></div>
+                                        <div class="dsd-single-item"><span class="dsd-item-title">شماره تماس:</span><span class="dsd-item-info">@Model.Order.Customer.PhoneNumber</span></div>
+                                        <div class="dsd-single-item"><span class="dsd-item-title">مبلغ:</span><span class="dsd-item-info">@Model.Order.Service.Price</span></div>
+                                    </div>
+                                    @if (!Model.Order.Bids.Any(x => x.ExpertId == Model.ExpertId))
+                                    {
+                                        <a asp-page-handler="CreateBid" asp-route-id="@Model.Order.Id" class="btn btn-success"><i class="fas fa-check-circle ms-1"></i>ایجاد پیشنهاد </a>
+                                    }
+                                    else
+                                    {
+                                        <p>شما قبلا برای این درخواست ثبت کرده اید</p>
+                                    }
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

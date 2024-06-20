@@ -1,0 +1,16 @@
+D:\FinalProject\HomeService.Infrastructure.DataBase.Sql.Dapper\bin\Debug\net8.0\HomeService.Infrastructure.DataBase.Sql.Dapper.deps.json
+D:\FinalProject\HomeService.Infrastructure.DataBase.Sql.Dapper\bin\Debug\net8.0\HomeService.Infrastructure.DataBase.Sql.Dapper.dll
+D:\FinalProject\HomeService.Infrastructure.DataBase.Sql.Dapper\bin\Debug\net8.0\HomeService.Infrastructure.DataBase.Sql.Dapper.pdb
+D:\FinalProject\HomeService.Infrastructure.DataBase.Sql.Dapper\bin\Debug\net8.0\HomeService.Core.dll
+D:\FinalProject\HomeService.Infrastructure.DataBase.Sql.Dapper\bin\Debug\net8.0\HomeService.Core.pdb
+D:\FinalProject\HomeService.Infrastructure.DataBase.Sql.Dapper\obj\Debug\net8.0\HomeService.Infrastructure.DataBase.Sql.Dapper.csproj.AssemblyReference.cache
+D:\FinalProject\HomeService.Infrastructure.DataBase.Sql.Dapper\obj\Debug\net8.0\HomeService.Infrastructure.DataBase.Sql.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject\HomeService.Infrastructure.DataBase.Sql.Dapper\obj\Debug\net8.0\HomeService.Infrastructure.DataBase.Sql.Dapper.AssemblyInfoInputs.cache
+D:\FinalProject\HomeService.Infrastructure.DataBase.Sql.Dapper\obj\Debug\net8.0\HomeService.Infrastructure.DataBase.Sql.Dapper.AssemblyInfo.cs
+D:\FinalProject\HomeService.Infrastructure.DataBase.Sql.Dapper\obj\Debug\net8.0\HomeService.Infrastructure.DataBase.Sql.Dapper.csproj.CoreCompileInputs.cache
+D:\FinalProject\HomeService.Infrastructure.DataBase.Sql.Dapper\obj\Debug\net8.0\HomeService.Infrastructure.DataBase.Sql.Dapper.sourcelink.json
+D:\FinalProject\HomeService.Infrastructure.DataBase.Sql.Dapper\obj\Debug\net8.0\HomeService.Infrastructure.DataBase.Sql.Dapper.csproj.CopyComplete
+D:\FinalProject\HomeService.Infrastructure.DataBase.Sql.Dapper\obj\Debug\net8.0\HomeService.Infrastructure.DataBase.Sql.Dapper.dll
+D:\FinalProject\HomeService.Infrastructure.DataBase.Sql.Dapper\obj\Debug\net8.0\refint\HomeService.Infrastructure.DataBase.Sql.Dapper.dll
+D:\FinalProject\HomeService.Infrastructure.DataBase.Sql.Dapper\obj\Debug\net8.0\HomeService.Infrastructure.DataBase.Sql.Dapper.pdb
+D:\FinalProject\HomeService.Infrastructure.DataBase.Sql.Dapper\obj\Debug\net8.0\ref\HomeService.Infrastructure.DataBase.Sql.Dapper.dll

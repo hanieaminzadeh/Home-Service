@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HomeService.Infrastructure.DataBase.Sql.Ef</id>
+    <version>1.0.0</version>
+    <authors>HomeService.Infrastructure.DataBase.Sql.Ef</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="055accdce2b3a9b756c1293d4886c359d61b8b21" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="HomeService.Core" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Identity.EntityFrameworkCore" version="8.0.5" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" version="8.0.5" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="8.0.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\EndProject\Home Service\HomeService.Infrastructure.DataBase.Sql.Ef\bin\Debug\net8.0\HomeService.Infrastructure.DataBase.Sql.Ef.runtimeconfig.json" target="lib\net8.0\HomeService.Infrastructure.DataBase.Sql.Ef.runtimeconfig.json" />
+    <file src="D:\EndProject\Home Service\HomeService.Infrastructure.DataBase.Sql.Ef\bin\Debug\net8.0\HomeService.Infrastructure.DataBase.Sql.Ef.dll" target="lib\net8.0\HomeService.Infrastructure.DataBase.Sql.Ef.dll" />
+  </files>
+</package>

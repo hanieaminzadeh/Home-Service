@@ -1,0 +1,35 @@
+﻿@page
+@model HomeServices.Endpoint.RazorPages.UI.Areas.Admin.Pages.ServiceManagement.UpdateModel
+@{
+}
+@{
+    Layout = "Shared/_AdminLayout";
+    ViewData["Title"] = "بروزرسانی سرویس";
+}
+<div class="portlet-body" style="">
+    <form method="post">
+        <div class="form-body">
+            <div class="input-group">
+                <select asp-for="@Model.Service.CategoryId">
+                    @foreach (var category in Model.Categories)
+                    {
+                        <option value="@category.Id">@category.Name</option>
+                    }
+                </select>
+                <input asp-for="@Model.Service.Title" type="text" class="form-control" placeholder="عنوان سرویس جدید را وارد کنید">
+                <input asp-for="@Model.Service.Description" type="text" class="form-control" placeholder="توضیحات سرویس جدید را وارد کنید">
+                <input asp-for="@Model.Service.Price" type="text" class="form-control" placeholder="قیمت سرویس جدید را وارد کنید">
+                <span class="input-group-btn">
+                    <input asp-for="@Model.Service.Id" type="hidden"></input>
+                    <button class="btn btn-primary" type="submit">
+                        ویرایش سرویس<div class="paper-ripple">
+                            <div class="paper-ripple__background"></div>
+                            <div class="paper-ripple__waves"></div>
+                        </div>
+                    </button>
+                </span>
+            </div>
+        </div>
+    </form>
+    <hr>
+</div>

@@ -1,0 +1,36 @@
+﻿@page
+@model HomeServices.Endpoint.RazorPages.UI.Pages.ListingServicesModel
+@{
+}
+<!-- ============================ Main Section Start ================================== -->
+<section class="gray py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                <div class="row justify-content-center gx-3">
+                    @foreach (var service in Model.Services)
+                    {
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
+                            <div class="Goodup-grid-wrap">
+                                <div class="Goodup-grid-upper">
+                                    <div class="Goodup-bookmark-btn"><button type="button"><i class="lni lni-heart-filled position-absolute"></i></button></div>
+                                    <div class="Goodup-grid-thumb">
+                                        <a asp-page="Request" asp-route-serviceId="@service.Id" class="d-block text-center m-auto"><img src="assets/img/listing/l-11.jpg" class="img-fluid" alt="" /></a>
+                                    </div>
+                                </div>
+                                <div class="Goodup-grid-fl-wrap">
+                                    <div class="Goodup-caption px-3 py-2">
+                                        <h4 class="mb-0 ft-medium medium"><a href="listing-search-v1.html" class="text-dark fs-md">@service.Title<span class="verified-badge"><i class="fas fa-check-circle"></i></span></a></h4>
+                                        <div class="Goodup-middle-caption mt-3">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ============================ Main Section End ================================== -->

@@ -1,0 +1,49 @@
+﻿@page
+@model HomeServices.Endpoint.RazorPages.UI.Pages.RequestModel
+@{
+}
+<!-- ============================ Listing Details Start ================================== -->
+<section class="gray py-5 position-relative center">
+	<div class="container">
+		<div class="row">
+			<div class="col-xl-8 col-lg-8 col-md-12 col-sm-12">
+
+				<!-- About The Business -->
+				
+				@if (User.IsInRole("Customer"))
+				{
+					<div class="bg-white rounded mb-4">
+						<div class="jbd-01 px-4 py-4">
+							<div class="jbd-details">
+								<div class="jb-apply-form bg-white rounded py-4 px-4 box-static mb-4">
+									<h4 class="ft-bold mb-1 ff-second fs-5">ثبت سفارش برای سرویس : <span style="color: red">@Model.Service.Title</span></h4>
+									<hr/>
+									<form class="_apply_form_form" method="post">
+										<div class="form-group">
+											<ul>
+												<input asp-for="@Model.Order.ServiceId" type="hidden" value="@Model.Service.Id"/>
+												<textarea asp-for="@Model.Order.Description" cols="40" rows="3" class="form-control form-group " placeholder="متن توضیحات..." required></textarea>
+											</ul>
+										</div>
+										<br/>
+										<div class="form-group">
+											<button type="submit" class="btn btn-md rounded theme-bg text-light ft-medium fs-sm full-width">ثبت سفارش</button>
+										</div>
+									</form>
+
+								</div>
+							</div>
+
+						</div>
+					</div>
+				}
+				else
+				{
+					<h2 style="color: red">برای ثبت درخواست باید به عنوان یک کارشناس در سایت وارد شوید</h2>
+				}
+			</div>
+		</div>
+	</div>
+</section>
+<!-- ============================ Listing Details End ================================== -->
+

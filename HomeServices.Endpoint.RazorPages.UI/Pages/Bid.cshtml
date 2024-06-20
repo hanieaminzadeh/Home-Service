@@ -1,0 +1,96 @@
+﻿@page
+@using Framework
+@using HomeService.Core.Contracts.CommentContracts
+@using HomeService.Core.Enums
+@using HomeService.Core.Services.AppServices
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@inject ICommentAppService CommentAppService;
+@model HomeServices.Endpoint.RazorPages.UI.Pages.BidModel
+@{
+    Layout = "Shared/_Layout-Account";
+}
+<!-- ======================= dashboard Detail ======================== -->
+<div class="goodup-dashboard-content">
+    <div class="dashboard-widg-bar d-block">
+        <div class="row">
+            <div class="col-xl-12 col-lg-12">
+                <div class="dashboard-list-wraps bg-white rounded mb-4">
+                    <div class="dashboard-list-wraps-head br-bottom py-3 px-3">
+                        <div class="dashboard-list-wraps-flx">
+                            <h4 class="mb-0 ft-medium fs-md"><i class="fas fa-shopping-basket ms-2 theme-cl fs-sm"></i>لیست رزروها</h4>
+                        </div>
+                    </div>
+                    <div class="dashboard-list-wraps-body py-3 px-3">
+                        <div class="dashboard-bookings-wraps">
+                            <!-- Single booking List -->
+                            @if (Model.Bids.Count() == 0)
+                            {
+                                <h4 class="ft-bold mb-1 ff-second fs-5"><span style="color: red">هنوز هیچ پیشنهادی از سمت کارشناسی برای شما ارسال نشده است</span></h4>
+                            }
+                            else
+                            {
+                                @foreach (var bid in Model.Bids)
+                                {
+                                    <div class="dsd-single-bookings-wraps">
+                                        <div class="dsd-single-book-thumb"><a asp-route-expertId="@bid.ExpertId" asp-page="Comment"><img src="@bid.Expert.ProfileImgUrl" class="img-fluid circle" alt="" /></a></div>
+                                        <div class="dsd-single-book-caption">
+                                            <div class="dsd-single-book-title"><h5>@bid.Expert.FirstName @bid.Expert.LastName</h5></div>
+                                            <div class="ico-content">
+                                                @if (@bid.IsWinner == true)
+                                                {
+                                                    <ul>
+                                                        <li>
+                                                            <div class="px-2 py-1 medium bg-light-success rounded text-success">برنده شده</div>
+                                                        </li>
+                                                    </ul>
+                                                }
+                                            </div>
+                                            <div class="dsd-single-descr">
+                                                <div class="dsd-single-item"><span class="dsd-item-title">نام:</span><span class="dsd-item-info">@bid.Expert.FirstName @bid.Expert.LastName</span></div>
+                                                <div class="dsd-single-item"><span class="dsd-item-title">تاریخ رزرو:</span><span class="dsd-item-info">@bid.DateOfRegisteration.ToPersianString("yyyy/MM/dd")</span></div>
+                                                <div class="dsd-single-item"><span class="dsd-item-title">پست الکترونیک:</span><span class="dsd-item-info">@bid.Expert.ApplicationUser.Email</span></div>
+                                                <div class="dsd-single-item"><span class="dsd-item-title">شماره تماس:</span><span class="dsd-item-info">@bid.Expert.PhoneNumber</span></div>
+                                                <div class="dsd-single-item"><span class="dsd-item-title">مبلغ:</span><span class="dsd-item-info">@bid.ProposedPrice</span></div>
+                                            </div>
+                                            @if (Model.Bids.Any(x => x.IsWinner == true))
+                                            {
+                                                @if (@bid.IsWinner == false)
+                                                {
+                                                    <div>
+                                                        <a class="btn btn-danger">رد شده</a>
+                                                    </div>
+                                                }
+                                                else
+                                                {
+                                                    <div class="dsd-single-bookings-wraps">
+
+                                                        <form asp-page-handler="Done" method="post">
+                                                            <input type="hidden" name="bidId" value="@bid.Id" />
+                                                            <button class="btn btn-success" type="submit"><i class="fas fa-check-circle ms-1"></i>کار به پایان رسید</button>
+                                                            <a class="btn btn-primary" asp-route-id="@bid.Expert.Id" asp-page="comment"><i class="fas fa-check-circle ms-1"></i>ثبت نظر برای کارشناس</a>
+                                                        </form>
+
+                                                    </div>
+                                                }
+                                            }
+                                            else
+                                            {
+                                                <a asp-route-id="@bid.Id" asp-page-handler="Active" class="btn btn-success "><i class="fas fa-check-circle ms-1"></i>تایید </a>
+                                            }
+
+                                            @if (await CommentAppService.HaveComment(@bid.Expert.Id,default))
+                                            {
+                                                <a asp-route-id="@bid.Expert.Id" asp-page="ExpertComments"  class="btn btn-warning ">سوابق نظرات کارشناس</a>
+                                            }
+                                        </div>
+
+                                    </div>
+                                }
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

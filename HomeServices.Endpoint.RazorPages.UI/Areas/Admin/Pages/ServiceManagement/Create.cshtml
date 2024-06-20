@@ -1,0 +1,40 @@
+﻿@page
+@using HomeService.Core.Contracts.CategoryContracts
+@using HomeService.Core.Contracts.ServiceContracts
+@using HomeService.Core.Services.AppServices
+@inject ICategoryAppService CategoryAppService
+@inject IServiceAppService ServiceAppService
+@model HomeServices.Endpoint.RazorPages.UI.Areas.Admin.Pages.ServiceManagement.CreateModel
+@{
+    Layout = "Shared/_AdminLayout";
+    ViewData["Title"] = "ایجاد سرویس";
+}
+
+<div class="portlet-body" style="">
+    <form method="post">
+        <div class="form-body">
+            <div class="input-group">
+                <select asp-for="@Model.Service.CategoryId">
+                    @foreach (var category in Model.Categories)
+                    {
+                        <option value="@category.Id">@category.Name</option>
+                    }
+                </select>
+                <input asp-for="@Model.Service.Title" type="text" class="form-control" placeholder="عنوان سرویس را وارد کنید">
+                <input asp-for="@Model.Service.Description" type="text" class="form-control" placeholder="توضیحات سرویس را وارد کنید">
+                <input asp-for="@Model.Service.Price" type="text" class="form-control" placeholder="قیمت سرویس را وارد کنید">
+                <span class="input-group-btn">
+                    <button class="btn btn-primary" type="submit">ایجاد سرویس<div class="paper-ripple"><div class="paper-ripple__background"></div><div class="paper-ripple__waves"></div></div></button>
+                </span>
+            </div>
+        </div>
+    </form>
+    <hr>
+</div>
+<h3>خدمات موجود</h3>
+<ul>
+    @foreach (var service in await ServiceAppService.GetAllServices(default))
+    {
+        <li>@service.Title</li>
+    }
+</ul>

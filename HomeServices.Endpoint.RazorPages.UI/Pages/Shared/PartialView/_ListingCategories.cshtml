@@ -1,0 +1,198 @@
+﻿@using HomeService.Core.Contracts.CategoryContracts
+@using HomeService.Core.Contracts.ServiceContracts
+@inject ICategoryAppService CategoryAppService;
+@inject IServiceAppService ServiceAppService;
+<!-- ======================= Listing Categories ======================== -->
+<section class="space min gray">
+    <div class="container">
+
+        <div class="row justify-content-center">
+            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                <div class="sec_title position-relative text-center mb-5">
+                    <h6 class="theme-cl">دسته بندی های محبوب</h6>
+                    <h4 class="ft-bold ff-second">انتخاب دسته بندی انتخابی شما</h4>
+                </div>
+            </div>
+        </div>
+        <!-- row -->
+        @foreach (var category in await @CategoryAppService.GetAllCategories(default))
+        {
+            <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6">
+                <div class="cats-wrap text-center">
+                    <a href="listing-search-v1.html" class="goodup-catg-wrap">
+                        <div class="goodup-catg-icon">
+                            <img src="@category.ImgUrl" />
+                        </div>
+                        <div class="goodup-catg-caption">
+                            <h4 class="fs-md mb-0 ft-medium m-catrio">@category.Name</h4>
+                            <a asp-page-handler="post">مشاهده بیشتر</a>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        }
+
+        @* <div class="row align-items-center">
+
+        <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6">
+        <div class="cats-wrap text-center">
+        <a href="listing-search-v1.html" class="Goodup-catg-wrap">
+        <div class="Goodup-catg-city">07 شهر</div>
+        <div class="Goodup-catg-icon"><i class="fas fa-stethoscope"></i></div>
+        <div class="Goodup-catg-caption">
+        <h4 class="fs-md mb-0 ft-medium m-catrio">بیمارستان</h4>
+        <span class="text-muted">607 آگهی</span>
+        </div>
+        </a>
+        </div>
+        </div>
+
+        <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6">
+        <div class="cats-wrap text-center">
+        <a href="listing-search-v1.html" class="Goodup-catg-wrap">
+        <div class="Goodup-catg-city">17 شهر</div>
+        <div class="Goodup-catg-icon"><i class="fas fa-building"></i></div>
+        <div class="Goodup-catg-caption">
+        <h4 class="fs-md mb-0 ft-medium m-catrio">بانک</h4>
+        <span class="text-muted">76 آگهی</span>
+        </div>
+        </a>
+        </div>
+        </div>
+
+        <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6">
+        <div class="cats-wrap text-center">
+        <a href="listing-search-v1.html" class="Goodup-catg-wrap">
+        <div class="Goodup-catg-city">19 شهر</div>
+        <div class="Goodup-catg-icon"><i class="fas fa-shopping-basket"></i></div>
+        <div class="Goodup-catg-caption">
+        <h4 class="fs-md mb-0 ft-medium m-catrio">مراکز خرید</h4>
+        <span class="text-muted">112 آگهی</span>
+        </div>
+        </a>
+        </div>
+        </div>
+
+        <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6">
+        <div class="cats-wrap text-center">
+        <a href="listing-search-v1.html" class="Goodup-catg-wrap">
+        <div class="Goodup-catg-city">32 شهر</div>
+        <div class="Goodup-catg-icon"><i class="fas fa-screwdriver"></i></div>
+        <div class="Goodup-catg-caption">
+        <h4 class="fs-md mb-0 ft-medium m-catrio">خدمات خانگی</h4>
+        <span class="text-muted">322 آگهی</span>
+        </div>
+        </a>
+        </div>
+        </div>
+
+        <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6">
+        <div class="cats-wrap text-center">
+        <a href="listing-search-v1.html" class="Goodup-catg-wrap">
+        <div class="Goodup-catg-city">27 شهر</div>
+        <div class="Goodup-catg-icon"><i class="fas fa-basketball-ball"></i></div>
+        <div class="Goodup-catg-caption">
+        <h4 class="fs-md mb-0 ft-medium m-catrio">باشگاه</h4>
+        <span class="text-muted">161 آگهی</span>
+        </div>
+        </a>
+        </div>
+        </div>
+
+        <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6">
+        <div class="cats-wrap text-center">
+        <a href="listing-search-v1.html" class="Goodup-catg-wrap">
+        <div class="Goodup-catg-city">26 شهر</div>
+        <div class="Goodup-catg-icon"><i class="fas fa-utensils"></i></div>
+        <div class="Goodup-catg-caption">
+        <h4 class="fs-md mb-0 ft-medium m-catrio">رستوران</h4>
+        <span class="text-muted">172 آگهی</span>
+        </div>
+        </a>
+        </div>
+        </div>
+
+        <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6">
+        <div class="cats-wrap text-center">
+        <a href="listing-search-v1.html" class="Goodup-catg-wrap">
+        <div class="Goodup-catg-city">10 شهر</div>
+        <div class="Goodup-catg-icon"><i class="fas fa-book-open"></i></div>
+        <div class="Goodup-catg-caption">
+        <h4 class="fs-md mb-0 ft-medium m-catrio">آموزشگاه</h4>
+        <span class="text-muted">144 آگهی</span>
+        </div>
+        </a>
+        </div>
+        </div>
+
+        <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6">
+        <div class="cats-wrap text-center">
+        <a href="listing-search-v1.html" class="Goodup-catg-wrap">
+        <div class="Goodup-catg-city">24 شهر</div>
+        <div class="Goodup-catg-icon"><i class="fas fa-house-damage"></i></div>
+        <div class="Goodup-catg-caption">
+        <h4 class="fs-md mb-0 ft-medium m-catrio">املاک</h4>
+        <span class="text-muted">210 آگهی</span>
+        </div>
+        </a>
+        </div>
+        </div>
+
+        <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6">
+        <div class="cats-wrap text-center">
+        <a href="listing-search-v1.html" class="Goodup-catg-wrap">
+        <div class="Goodup-catg-city">18 شهر</div>
+        <div class="Goodup-catg-icon"><i class="fas fa-wine-glass"></i></div>
+        <div class="Goodup-catg-caption">
+        <h4 class="fs-md mb-0 ft-medium m-catrio">کافی شاپ</h4>
+        <span class="text-muted">241 آگهی</span>
+        </div>
+        </a>
+        </div>
+        </div>
+
+        <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6">
+        <div class="cats-wrap text-center">
+        <a href="listing-search-v1.html" class="Goodup-catg-wrap">
+        <div class="Goodup-catg-city">06 شهر</div>
+        <div class="Goodup-catg-icon"><i class="fas fa-car-alt"></i></div>
+        <div class="Goodup-catg-caption">
+        <h4 class="fs-md mb-0 ft-medium m-catrio">کارواش</h4>
+        <span class="text-muted">52 آگهی</span>
+        </div>
+        </a>
+        </div>
+        </div>
+
+        <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6">
+        <div class="cats-wrap text-center">
+        <a href="listing-search-v1.html" class="Goodup-catg-wrap">
+        <div class="Goodup-catg-city">08 شهر</div>
+        <div class="Goodup-catg-icon"><i class="fas fa-pencil-ruler"></i></div>
+        <div class="Goodup-catg-caption">
+        <h4 class="fs-md mb-0 ft-medium m-catrio">هنر</h4>
+        <span class="text-muted">97 آگهی</span>
+        </div>
+        </a>
+        </div>
+        </div>
+
+        <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6">
+        <div class="cats-wrap text-center">
+        <a href="listing-search-v1.html" class="Goodup-catg-wrap">
+        <div class="Goodup-catg-city">05 شهر</div>
+        <div class="Goodup-catg-icon"><i class="fas fa-plane"></i></div>
+        <div class="Goodup-catg-caption">
+        <h4 class="fs-md mb-0 ft-medium m-catrio">گردشگری</h4>
+        <span class="text-muted">42 آگهی</span>
+        </div>
+        </a>
+        </div>
+        </div>
+
+        </div> *@
+        <!-- row -->
+
+    </div>
+</section>
+<!-- ======================= Listing Categories End ======================== -->

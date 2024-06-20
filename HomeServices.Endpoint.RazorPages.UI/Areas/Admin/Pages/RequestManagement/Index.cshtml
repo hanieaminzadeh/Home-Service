@@ -1,0 +1,96 @@
+﻿@page
+@using Framework
+@using HomeService.Core.Enums
+@model HomeServices.Endpoint.RazorPages.UI.Areas.Admin.Pages.RequestManagement.IndexModel
+@{
+    Layout = "Shared/_AdminLayout";
+    ViewData["Title"] = "مدیریت درخواست ها";
+}
+
+<div class="table-responsive text-nowrap">
+    <table class="table">
+        <thead class="table-light">
+            <tr>
+                <th>شناسه</th>
+                <th>نام مشتری</th>
+                <th>نام سرویس</th>
+                <th>وضعیت سفارش</th>
+                <th>تغییر وضعیت سفارش</th>
+                <th>عملیات</th>
+            </tr>
+        </thead>
+        <tbody class="table-border-bottom-0">
+            @if (Model.Requests != null)
+            {
+                @foreach (var request in Model.Requests)
+                {
+
+                    <tr>
+                        <td>@request.Id</td>
+                        <td>@request.Customer.FirstName @request.Customer.LastName</td>
+                        <td>@request.Service.Title</td>
+
+                        <td class="badge bg-label-primary p-3 m-2">
+                            @request.Status.GetEnumDisplayName()
+                        </td>
+
+                        <td>
+                            <div class="col-lg-4 col-md-6">
+                                <div class="">
+                                    <button type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#P_@request.Id">
+                                        تغییر‌وضعیت‌به
+                                    </button>
+                                    <form method="post">
+                                        <input asp-for="@Model.NewStatus.Id" type="hidden" value="@request.Id" />
+                                        <input asp-for="@Model.RequestId" type="hidden" value="@request.Id"></input>
+
+                                        <div class="modal fade" id="P_@request.Id" tabindex="-1" style="display: none;" aria-hidden="true">
+                                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                                <div class="modal-content">
+                                                    <div class="modal-header">
+                                                        <h5 class="modal-title secondary-font" id="modalCenterTitle">تغییر وضعیت درخواست</h5>
+                                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                                    </div>
+                                                    <div class="modal-body">
+                                                        <label asp-for="@Model.NewStatus.Status" class="form-label">وضعیت جدید درخواست</label>
+                                                        <select asp-for="@Model.NewStatus.Status" class="select2 form-select" data-allow-clear="true">
+                                                            @foreach (RequestStatus status in Enum.GetValues(typeof(RequestStatus)))
+                                                            {
+                                                                <option value="@status" class="dropdown-item"><i class="bx bx-edit-alt me-1"></i>@status.GetEnumDisplayName()</option>
+                                                            }
+                                                        </select>
+                                                    </div>
+                                                    <div class="modal-footer">
+                                                        <button type="button" class="btn btn-label-secondary" data-bs-dismiss="modal">
+                                                            بستن
+                                                        </button>
+                                                        <button type="submit" class="btn btn-outline-primary">ذخیره تغییرات</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </td>
+
+                        <td>
+
+                            <div class="dropdown">
+                                <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
+                                    <i class="bx bx-dots-vertical-rounded"></i>
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" asp-page-handler="Delete" asp-route-id="@request.Id" onclick="return confirm('Are you sure?')" class="bx bx-trash me-1">حذف</a>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                    @* } *@
+                }
+            }
+        </tbody>
+    </table>
+</div>
+
+

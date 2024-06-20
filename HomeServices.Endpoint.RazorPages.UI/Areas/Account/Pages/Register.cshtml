@@ -1,0 +1,75 @@
+﻿@page
+@model HomeServices.Endpoint.RazorPages.UI.Areas.Account.Pages.RegisterModel
+@{
+    Layout = "_Layout";
+    ViewBag.Title = "ثبت نام در سایت";
+}
+
+<!-- ======================= Login Detail ======================== -->
+<section class="gray">
+    <div class="container">
+        <div class="row align-items-start justify-content-center">
+            <div class="col-xl-6 col-lg-8 col-md-12">
+
+                <div class="signup-screen-wrap">
+                    <div class="signup-screen-single light">
+                        <div class="text-center mb-4">
+                            <h4 class="m-0 ft-medium">ثبت نـام</h4>
+                        </div>
+
+                        <form class="submit-form" method="post">
+                            <div class="row">
+                                <div class="col-6">
+                                    <div class="form-group">
+                                        <label class="mb-1">نام</label>
+                                        <input asp-for="@Model.Input.FirstName" type="text" class="form-control rounded" placeholder="نام"  required>
+                                    </div>
+                                </div>
+                                <div class="col-6">
+                                    <div class="form-group">
+                                        <label class="mb-1">نام خانوادگی</label>
+                                        <input asp-for="@Model.Input.LastName" type="text" class="form-control rounded" placeholder="نام خانوادگی" required>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="mb-1">ایمیل</label>
+                                <input asp-for="@Model.Input.Email" type="text" class="form-control rounded" placeholder="ایمیل*" required>
+                            </div>
+                            <div class="form-group">
+                                <label class="mb-1">نام کاربری</label>
+                                <input asp-for="@Model.Input.UserName" type="text" class="form-control rounded" placeholder="نام کاربری*" required>
+                            </div>
+                            <div class="form-group">
+                                <label class="mb-1">رمز عبور</label>
+                                <input asp-for="@Model.Input.Password" type="password" class="form-control rounded" placeholder="رمز عبور*" required>
+                            </div>
+                            <div class="sign-controls form-group">
+                                <div class="form-group">
+                                    <label for="email" class="sr-only">نوع کاربر</label>
+                                    <div class="input-group round">
+                                        <span class="input-group-addon">
+                                            <i class="icon-envelope"></i>
+                                        </span>
+                                        <select asp-for="Input.Role" class="form-control">
+                                            <option value="Customer">مشتری</option>
+                                            <option value="Expert">کارشناس</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <button type="submit" class="btn btn-md full-width bg-sky text-light rounded ft-medium">ثبت نام</button>
+                            </div>
+
+                            <div class="form-group text-center mt-4 mb-0">
+                                <p class="mb-0">آیا قبلا ثبت نام کرده اید؟ <a asp-page="Login" class="ft-medium text-success">ورود به حساب کاربری</a></p>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>

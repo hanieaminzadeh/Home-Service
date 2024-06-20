@@ -1,0 +1,186 @@
+﻿<!DOCTYPE html>
+<html lang="fa">
+
+<head>
+    <!-- Meta Data -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Goodup - قالب ثبت آگهی و دایرکتوری HTML</title>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicon.png">
+
+    <!-- Custom CSS -->
+    <link href="/assets/css/styles.css" rel="stylesheet">
+</head>
+
+<body dir="rtl">
+
+    <!-- Main wrapper - style you can find in pages.scss -->
+    <div id="main-wrapper">
+
+        <!-- Top header  -->
+        <!-- ============================================================== -->
+        <!-- Start Navigation -->
+        <div class="header header-light dark-text">
+            <div class="container">
+                <nav id="navigation" class="navigation navigation-landscape">
+                    <div class="nav-header">
+                        <a class="nav-brand" asp-page="Index">
+                            <img src="/assets/img/logo.png" class="logo" alt="" />
+                        </a>
+                        <div class="nav-toggle"></div>
+                        <div class="mobile_nav">
+                            <ul>
+                                <li>
+                                    <a href="#" data-bs-toggle="modal" data-bs-target="#login" class="theme-cl fs-lg">
+                                        <i class="lni lni-user"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="nav-menus-wrapper" style="transition-property: none;">
+                        <ul class="nav-menu">
+
+                            <li class="active">
+                                <a asp-page="Index">صفحه اصلی</a>
+                            </li>
+                            <li>
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                @if ((User.IsInRole("Customer")))
+                                {
+                                    <a href="javascript:void(0);">پنل کاربری مشتری</a>
+                                    <ul class="nav-dropdown nav-submenu">
+                                        <li><a asp-page="MyRequests"><i class="lni lni-files ms-2"></i>درخواست های من </a></li>
+                                      @*<li><a asp-page="Bid"><i class="lni lni-briefcase ms-2"></i>پیشنهادهای من<span class="count-tag bg-warning">4</span></a></li> *@
+                                        <li><a asp-page="Profile"><i class="lni lni-user ms-2"></i>حساب من </a></li>
+                                    </ul>
+                                }
+                                @if ((User.IsInRole("Expert")))
+                                {
+                                    <a href="javascript:void(0);"> پنل کاربری کارشناس</a>
+                                    <ul class="nav-dropdown nav-submenu">
+                                        @* <li><a asp-page="MyRequests"><i class="lni lni-files ms-2"></i>درخواست های من</a></li> *@
+                                        <li><a asp-page="DisplayRequests"><i class="lni lni-briefcase ms-2"></i>لیست درخواست ها</a></li>
+                                        <li><a asp-page="Profile"><i class="lni lni-user ms-2"></i>حساب من </a></li>
+                                    </ul>
+                                }
+                            }
+                            </li>
+                        </ul>
+                        <ul class="nav-menu nav-menu-social align-to-left">
+                            <partial name="_LoginPartial" />
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+        <!-- End Navigation -->
+        <!-- ============================================================== -->
+        <!-- Top header  -->
+        @RenderBody()
+        <!-- ======================= Newsletter Start ============================ -->
+        <section class="space bg-cover" style="background:#03343b url(/assets/img/landing-bg.png) no-repeat;">
+            <div class="container py-5">
+
+                <div class="row justify-content-center">
+                    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                        <div class="sec_title position-relative text-center mb-5">
+                            <h2 class="text-light">وبسایت خدمات منزل</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row align-items-center justify-content-center">
+                    <div class="col-xl-7 col-lg-10 col-md-12 col-sm-12 col-12">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- ======================= Newsletter Start ============================ -->
+        <!-- Log In Modal -->
+        <div class="modal fade" id="login" tabindex="-1" role="dialog" aria-labelledby="loginmodal" aria-hidden="true">
+            <div class="modal-dialog login-pop-form" role="document">
+                <div class="modal-content" id="loginmodal">
+                    <div class="modal-headers">
+                        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                            <span class="ti-close"></span>
+                        </button>
+                    </div>
+                    <div class="modal-body p-5">
+                        <div class="text-center mb-4">
+                            <h4 class="m-0 ft-medium">ورود به حساب</h4>
+                        </div>
+                        <form class="submit-form">
+                            <div class="form-group">
+                                <label class="mb-1">نام کاربری</label>
+                                <input type="text" class="form-control rounded bg-light" placeholder="نام کاربری*">
+                            </div>
+                            <div class="form-group">
+                                <label class="mb-1">رمز عبور</label>
+                                <input type="password" class="form-control rounded bg-light" placeholder="رمز عبور*">
+                            </div>
+                            <div class="form-group">
+                                <div class="d-flex align-items-center justify-content-between">
+                                    <div class="flex-1">
+                                        <input id="dd" class="checkbox-custom" name="dd" type="checkbox" checked>
+                                        <label for="dd" class="checkbox-custom-label">مرا به خاطر بسپار</label>
+                                    </div>
+                                    <div class="eltio_k2">
+                                        <a href="#" class="theme-cl">فراموشی رمز عبور</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <button type="submit" class="btn btn-md full-width theme-bg text-light rounded ft-medium">ورود</button>
+                            </div>
+                            <div class="form-group text-center mb-0">
+                                <p class="extra">یـا ورود با</p>
+                                <div class="option-log">
+                                    <div class="single-log-opt"><a href="javascript:void(0);" class="log-btn"><img src="/assets/img/c-1.png" class="img-fluid" alt="" />Google</a></div>
+                                    <div class="single-log-opt"><a href="javascript:void(0);" class="log-btn"><img src="/assets/img/facebook.png" class="img-fluid" alt="" />Facebook</a></div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Modal -->
+
+        <a id="tops-button" class="top-scroll" title="Back to top" href="#"><i class="ti-arrow-up"></i></a>
+
+
+    </div>
+    <!-- ============================================================== -->
+    <!-- End Wrapper -->
+    <!-- ============================================================== -->
+    <!-- ============================================================== -->
+    <!-- All Jquery -->
+    <!-- ============================================================== -->
+    <script src="/assets/js/jquery.min.js"></script>
+    <script src="/assets/js/popper.min.js"></script>
+    <script src="/assets/js/bootstrap.min.js"></script>
+    <script src="/assets/js/slick.js"></script>
+    <script src="/assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="/assets/js/dropzone.js"></script>
+    <script src="/assets/js/counterup.js"></script>
+    <script src="/assets/js/lightbox.js"></script>
+    <script src="/assets/js/moment.min.js"></script>
+    <script src="/assets/js/daterangepicker.js"></script>
+    <script src="/assets/js/lightbox.js"></script>
+    <script src="/assets/js/jQuery.style.switcher.js"></script>
+    <script src="/assets/js/custom.js"></script>
+    <!-- ============================================================== -->
+    <!-- This page plugins -->
+    <!-- ============================================================== -->
+
+</body>
+
+@await RenderSectionAsync("Scripts", required: false)
+
+</html>

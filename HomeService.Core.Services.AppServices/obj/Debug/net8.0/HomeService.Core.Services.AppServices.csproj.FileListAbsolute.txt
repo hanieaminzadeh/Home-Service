@@ -1,0 +1,32 @@
+D:\EndProject\Home Service\HomeService.Core.Services.AppServices\bin\Debug\net8.0\HomeService.Core.Services.AppServices.deps.json
+D:\EndProject\Home Service\HomeService.Core.Services.AppServices\bin\Debug\net8.0\HomeService.Core.Services.AppServices.dll
+D:\EndProject\Home Service\HomeService.Core.Services.AppServices\bin\Debug\net8.0\HomeService.Core.Services.AppServices.pdb
+D:\EndProject\Home Service\HomeService.Core.Services.AppServices\bin\Debug\net8.0\HomeService.Core.dll
+D:\EndProject\Home Service\HomeService.Core.Services.AppServices\bin\Debug\net8.0\HomeService.Core.pdb
+D:\EndProject\Home Service\HomeService.Core.Services.AppServices\obj\Debug\net8.0\HomeService.Core.Services.AppServices.csproj.AssemblyReference.cache
+D:\EndProject\Home Service\HomeService.Core.Services.AppServices\obj\Debug\net8.0\HomeService.Core.Services.AppServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\EndProject\Home Service\HomeService.Core.Services.AppServices\obj\Debug\net8.0\HomeService.Core.Services.AppServices.AssemblyInfoInputs.cache
+D:\EndProject\Home Service\HomeService.Core.Services.AppServices\obj\Debug\net8.0\HomeService.Core.Services.AppServices.AssemblyInfo.cs
+D:\EndProject\Home Service\HomeService.Core.Services.AppServices\obj\Debug\net8.0\HomeService.Core.Services.AppServices.csproj.CoreCompileInputs.cache
+D:\EndProject\Home Service\HomeService.Core.Services.AppServices\obj\Debug\net8.0\HomeService.Core.Services.AppServices.csproj.CopyComplete
+D:\EndProject\Home Service\HomeService.Core.Services.AppServices\obj\Debug\net8.0\HomeService.Core.Services.AppServices.dll
+D:\EndProject\Home Service\HomeService.Core.Services.AppServices\obj\Debug\net8.0\refint\HomeService.Core.Services.AppServices.dll
+D:\EndProject\Home Service\HomeService.Core.Services.AppServices\obj\Debug\net8.0\HomeService.Core.Services.AppServices.pdb
+D:\EndProject\Home Service\HomeService.Core.Services.AppServices\obj\Debug\net8.0\ref\HomeService.Core.Services.AppServices.dll
+D:\EndProject\Home Service\HomeService.Core.Services.AppServices\obj\Debug\net8.0\HomeService.Core.Services.AppServices.sourcelink.json
+D:\FinalProject\HomeService.Core.Services.AppServices\bin\Debug\net8.0\HomeService.Core.Services.AppServices.deps.json
+D:\FinalProject\HomeService.Core.Services.AppServices\bin\Debug\net8.0\HomeService.Core.Services.AppServices.dll
+D:\FinalProject\HomeService.Core.Services.AppServices\bin\Debug\net8.0\HomeService.Core.Services.AppServices.pdb
+D:\FinalProject\HomeService.Core.Services.AppServices\bin\Debug\net8.0\HomeService.Core.dll
+D:\FinalProject\HomeService.Core.Services.AppServices\bin\Debug\net8.0\HomeService.Core.pdb
+D:\FinalProject\HomeService.Core.Services.AppServices\obj\Debug\net8.0\HomeService.Core.Services.AppServices.csproj.AssemblyReference.cache
+D:\FinalProject\HomeService.Core.Services.AppServices\obj\Debug\net8.0\HomeService.Core.Services.AppServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject\HomeService.Core.Services.AppServices\obj\Debug\net8.0\HomeService.Core.Services.AppServices.AssemblyInfoInputs.cache
+D:\FinalProject\HomeService.Core.Services.AppServices\obj\Debug\net8.0\HomeService.Core.Services.AppServices.AssemblyInfo.cs
+D:\FinalProject\HomeService.Core.Services.AppServices\obj\Debug\net8.0\HomeService.Core.Services.AppServices.csproj.CoreCompileInputs.cache
+D:\FinalProject\HomeService.Core.Services.AppServices\obj\Debug\net8.0\HomeService.Core.Services.AppServices.sourcelink.json
+D:\FinalProject\HomeService.Core.Services.AppServices\obj\Debug\net8.0\HomeService.Core.Services.AppServices.csproj.CopyComplete
+D:\FinalProject\HomeService.Core.Services.AppServices\obj\Debug\net8.0\HomeService.Core.Services.AppServices.dll
+D:\FinalProject\HomeService.Core.Services.AppServices\obj\Debug\net8.0\refint\HomeService.Core.Services.AppServices.dll
+D:\FinalProject\HomeService.Core.Services.AppServices\obj\Debug\net8.0\HomeService.Core.Services.AppServices.pdb
+D:\FinalProject\HomeService.Core.Services.AppServices\obj\Debug\net8.0\ref\HomeService.Core.Services.AppServices.dll

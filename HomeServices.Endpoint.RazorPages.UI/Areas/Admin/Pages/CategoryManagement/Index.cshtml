@@ -1,0 +1,68 @@
+﻿@page
+@using HomeService.Core.Contracts.CategoryContracts
+@using HomeService.Core.Services.AppServices
+@inject ICategoryAppService CategoryAppService
+@model HomeServices.Endpoint.RazorPages.UI.Areas.Admin.Pages.CategoryManagement.IndexModel;
+@{
+    Layout = "Shared/_AdminLayout";
+    ViewData["Title"] = "مدیریت دسته بندی ها";
+}
+<a href="@Url.Page("Create")" type="button" class="btn rounded-pill btn-info mb-2">افزودن دسته بندی جدید</a>
+<div class="table-responsive text-nowrap">
+    <table class="table">
+        <thead class="table-dark">
+            <tr>
+                <th>شناسه</th>
+                <th>نام</th>
+                <th>تصویر</th>
+                <th>وضعیت</th>
+                <th>عملیات</th>
+            </tr>
+        </thead>
+        <tbody class="table-border-bottom-0">
+            @if (Model.Categories != null)
+            {
+                @foreach (var category in await @CategoryAppService.GetAllCategories(default))
+                {
+                    @* @if (category.IsDeleted != true)
+            { *@
+                    <tr>
+                        <td>@category.Id</td>
+                        <td>@category.Name</td>
+                        <td><img style="width:100px ; height:100px ; border-radius: 50%; " src="/@category.ImgUrl" /></td>
+                        <td>
+                            @if (@category.IsDeleted == true)
+                            {
+                                <form method="post" asp-page-handler="Active">
+                                    <input type="hidden" name="id" value="@category.Id">
+                                    <button class="btn btn-success" type="submit">فعال کردن</button>
+                                </form>
+                            }
+                            else
+                            {
+                                <form method="post" asp-page-handler="DeActive">
+                                    <input type="hidden" name="id" value="@category.Id">
+                                    <button class="btn btn-danger" type="submit">غیرفعال کردن</button>
+                                </form>
+                            }
+                        </td>
+                        <td>
+
+                            <div class="dropdown">
+                                <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
+                                    <i class="bx bx-dots-vertical-rounded"></i>
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" asp-page="Update" asp-route-id="@category.Id" class="bx bx-edit-alt me-1">ویرایش</a>
+                                    <a class="dropdown-item" asp-page-handler="Delete" asp-route-id="@category.Id" onclick="return confirm('Are you sure?')" class="bx bx-trash me-1">حذف</a>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                    @* } *@
+                }
+            }
+        </tbody>
+    </table>
+</div>
+

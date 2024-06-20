@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <!-- Meta Data -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Goodup - قالب ثبت آگهی و دایرکتوری HTML</title>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicon.png">
+    <!-- Morris Charts CSS -->
+    <link href="/assets/js/plugins/morris.js/morris.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="/assets/css/styles.css" rel="stylesheet">
+</head>
+
+<body dir="rtl">
+
+    <!-- Preloader - style you can find in spinners.css -->
+    <div class="preloader"></div>
+
+    <!-- Main wrapper - style you can find in pages.scss -->
+    <div id="main-wrapper">
+
+        <!-- Top header  -->
+        <div class="clearfix"></div>
+        <!-- Top header  -->
+        <!-- =============================== Dashboard Header ========================== -->
+        <div class="goodup-dashboard-wrap gray px-4 py-5">
+            <div class="collapse" id="MobNav">
+                <div class="goodup-dashboard-nav sticky-top">
+                    <div class="goodup-dashboard-inner">
+                        <ul data-submenu-title="منو">
+                            <li><a asp-page="Profile"><i class="lni lni-files ms-2"></i>حساب من</a></li>
+                            @if (User.IsInRole("Expert"))
+                            {
+                                <li><a asp-page="DisplayRequests"><i class="lni lni-files ms-2"></i>لیست درخواست ها</a></li>
+                            }
+                            @if (User.IsInRole("Customer"))
+                            {
+                                <li><a asp-page="MyRequests"><i class="lni lni-files ms-2"></i>درخواست های من</a></li>
+                            }
+                            <li><a asp-page="Index"><i class="lni lni-files ms-2"></i>بازگشت به سایت</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            @RenderBody()
+        </div>
+    </div>
+    <!-- ======================= dashboard Detail End ======================== -->
+
+    <a id="tops-button" class="top-scroll" title="Back to top" href="#"><i class="ti-arrow-up"></i></a>
+
+
+    <!-- ============================================================== -->
+    <!-- End Wrapper -->
+    <!-- ============================================================== -->
+    <!-- ============================================================== -->
+    <!-- All Jquery -->
+    <!-- ============================================================== -->
+    <script src="/assets/js/jquery.min.js"></script>
+    <script src="/assets/js/popper.min.js"></script>
+    <script src="/assets/js/bootstrap.min.js"></script>
+    <script src="/assets/js/slick.js"></script>
+    <script src="/assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="/assets/js/dropzone.js"></script>
+    <script src="/assets/js/counterup.js"></script>
+    <script src="/assets/js/lightbox.js"></script>
+    <script src="/assets/js/moment.min.js"></script>
+    <script src="/assets/js/daterangepicker.js"></script>
+    <script src="/assets/js/lightbox.js"></script>
+    <script src="/assets/js/jQuery.style.switcher.js"></script>
+    <script src="/assets/js/custom.js"></script>
+    <!-- ============================================================== -->
+    <!-- This page plugins -->
+    <!-- ============================================================== -->
+    @section Scripts
+    {
+        <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+        <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+        <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+
+        <script>
+            $(document).ready(function () {
+
+                $('.js-example-basic-multiple').select2(
+                    {
+                        placeholder: "سرویس هایی که ارائه میدهید را انتخاب کنید",
+                        allowClear: true
+                    });
+            });
+        </script>
+    }
+</body>
+@await RenderSectionAsync("Scripts", required: false)
+</html>

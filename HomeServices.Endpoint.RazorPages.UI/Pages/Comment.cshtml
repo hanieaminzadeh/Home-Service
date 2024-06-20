@@ -1,0 +1,46 @@
+﻿@page
+@model HomeServices.Endpoint.RazorPages.UI.Pages.CommentModel
+@{
+}
+Omega:
+<!-- ============================ Main Section Start ================================== -->
+<section class="gray">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-4 col-lg-4 col-md-12">
+                <div class="author-wrap-ngh">
+                    <div class="online">آنلاین</div>
+                    <div class="author-wrap-head-ngh">
+                        <div class="author-wrap-ngh-thumb">
+                            <img src="@Model.Expert.ProfileImgUrl" class="img-fluid circle"/>
+                        </div>
+                        <div class="author-wrap-ngh-info">
+                            <h5>@Model.Expert.FirstName @Model.Expert.LastName</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-8 col-lg-8 col-md-12">
+                <form method="post">
+                    <div class="form-group">
+                        <label class="mb-1">امتیاز</label>
+                        <select asp-for="@Model.Comment.Score" class="form-control">
+                            <option selected>امتیاز</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="5">5</option>
+                        </select>
+                    </div>
+                    <div class="message-reply form-group">
+                        <input type="hidden" value="@Model.Expert.Id" asp-for="@Model.Comment.ExpertId" />
+                        <textarea asp-for="@Model.Comment.CommentText" cols="40" rows="3" class="form-control with-light mb-1" placeholder="متن پیام..."></textarea>
+                        <button type="submit" class="btn theme-bg text-white">ارسال پیام</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ============================ Main Section End ================================== -->

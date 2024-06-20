@@ -1,0 +1,83 @@
+﻿@page
+@using Framework
+@model HomeServices.Endpoint.RazorPages.UI.Pages.MyRequestsModel
+@{
+    Layout = "Shared/_Layout-Account";
+}
+<!-- ======================= dashboard Detail ======================== -->
+<div class="goodup-dashboard-content">
+    <div class="dashboard-widg-bar d-block mb-5">
+        <div class="row">
+            <div class="col-xl-12 col-lg-12">
+                <div class="dashboard-list-wraps bg-white rounded mb-4">
+                    <div class="dashboard-list-wraps-head br-bottom py-3 px-3">
+                        <div class="dashboard-list-wraps-flx">
+                            <h4 class="mb-0 ft-medium fs-md"><i class="fa fa-file-alt ms-2 theme-cl fs-sm"></i>درخواست های من</h4>
+                        </div>
+                    </div>
+                    <div class="dashboard-list-wraps-body py-3 px-3">
+                        <div class="dashboard-listing-wraps">
+                            @if (Model.Orders.Count() == 0)
+                            {
+                                <h4 class="ft-bold mb-1 ff-second fs-5"><span style="color: red">متاسفانه هنوز پیشنهادی از سمت کارشناسی برای شما یافت نشده</span></h4>
+                            }
+                            else if (Model.Orders.Any())
+                            {
+                                @foreach (var order in Model.Orders)
+                                {
+                                    <div class="dsd-single-listing-wraps">
+                                        <div class="dsd-single-lst-thumb"><img src="assets/img/Customer-service.png" class="img-fluid" alt="" /></div>
+                                        <div class="dsd-single-lst-caption">
+                                            <div class="dsd-single-lst-title"><h5>@order.Service.Title</h5></div>
+                                            <div class="ico-content">
+                                                <ul>
+                                                    <li><div class="px-2 py-1 medium bg-light-success rounded">@order.Status.GetEnumDisplayName()</div></li>
+                                                </ul>
+                                            </div>
+                                            <div class="ico-content">
+                                                <div class="Goodup-ft-first">
+                                                    <div class="Goodup-price-range">
+                                                        <span class="ft-medium">تاریخ ثبت درخواست : @order.DateOfRegisteration.ToPersianString("ddd, dd MMMM,yyyy")</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="dsd-single-lst-footer">
+                                                <a asp-page="Bid" asp-route-orderId="@order.Id" class="btn btn-view mr-1"><i class="fas fa-eye ms-1"></i>نمایش پیشنهاد ها</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                }
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ======================= dashboard Detail End ======================== -->
+
+<a id="tops-button" class="top-scroll" title="Back to top" href="#"><i class="ti-arrow-up"></i></a>
+
+<!-- ============================================================== -->
+<!-- End Wrapper -->
+<!-- ============================================================== -->
+<!-- ============================================================== -->
+<!-- All Jquery -->
+<!-- ============================================================== -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/popper.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/slick.js"></script>
+<script src="assets/js/jquery.magnific-popup.min.js"></script>
+<script src="assets/js/dropzone.js"></script>
+<script src="assets/js/counterup.js"></script>
+<script src="assets/js/lightbox.js"></script>
+<script src="assets/js/moment.min.js"></script>
+<script src="assets/js/daterangepicker.js"></script>
+<script src="assets/js/lightbox.js"></script>
+<script src="assets/js/jQuery.style.switcher.js"></script>
+<script src="assets/js/custom.js"></script>
+<!-- ============================================================== -->
+<!-- This page plugins -->
+<!-- ============================================================== -->

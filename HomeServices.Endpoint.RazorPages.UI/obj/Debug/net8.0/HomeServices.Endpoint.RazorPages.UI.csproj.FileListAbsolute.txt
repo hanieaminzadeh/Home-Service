@@ -1,0 +1,1235 @@
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\appsettings.Development.json
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\appsettings.json
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.staticwebassets.runtime.json
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.exe
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.deps.json
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.runtimeconfig.json
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.pdb
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\mscorlib.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\netstandard.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.AppContext.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Buffers.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Collections.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.ComponentModel.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Configuration.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Console.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Core.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Data.Common.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Data.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Drawing.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Globalization.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.Compression.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Linq.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Memory.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.Http.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.Mail.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.Ping.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.Quic.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.Requests.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.Security.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Numerics.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.ObjectModel.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Reflection.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Claims.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Principal.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Text.Json.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Threading.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Transactions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.ValueTuple.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Web.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Windows.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Xml.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\WindowsBase.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Azure.Core.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Azure.Identity.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Humanizer.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Seq.Extensions.Logging.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.Sinks.ColoredConsole.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.Sinks.PeriodicBatching.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.Sinks.Seq.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.CodeDom.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeService.Core.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeService.Core.Services.AppServices.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeService.Core.Services.Services.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeService.Infrastructure.DataAccess.Repo.Ef.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeService.Infrastructure.DataBase.Sql.Ef.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeService.Core.Services.AppServices.pdb
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeService.Core.Services.Services.pdb
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeService.Infrastructure.DataAccess.Repo.Ef.pdb
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeService.Infrastructure.DataBase.Sql.Ef.pdb
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeService.Core.pdb
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.csproj.AssemblyReference.cache
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.AssemblyInfoInputs.cache
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.AssemblyInfo.cs
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.csproj.CoreCompileInputs.cache
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.MvcApplicationPartsAssemblyInfo.cs
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.RazorAssemblyInfo.cache
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.RazorAssemblyInfo.cs
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\staticwebassets.build.json
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\staticwebassets.development.json
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\staticwebassets\msbuild.HomeServices.Endpoint.RazorPages.UI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\staticwebassets\msbuild.build.HomeServices.Endpoint.RazorPages.UI.props
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HomeServices.Endpoint.RazorPages.UI.props
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HomeServices.Endpoint.RazorPages.UI.props
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\scopedcss\Areas\Admin\Pages\Shared\_AdminLayout.cshtml.rz.scp.css
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\scopedcss\bundle\HomeServices.Endpoint.RazorPages.UI.styles.css
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\scopedcss\projectbundle\HomeServices.Endpoint.RazorPages.UI.bundle.scp.css
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.csproj.CopyComplete
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\refint\HomeServices.Endpoint.RazorPages.UI.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.pdb
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.genruntimeconfig.cache
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\ref\HomeServices.Endpoint.RazorPages.UI.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Framework.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Framework.pdb
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Build.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\NuGet.Common.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\EndProject\Home Service\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.sourcelink.json
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\appsettings.Development.json
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\appsettings.json
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.staticwebassets.runtime.json
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.exe
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.deps.json
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.runtimeconfig.json
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.pdb
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\mscorlib.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\netstandard.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.AppContext.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Buffers.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Collections.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.ComponentModel.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Configuration.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Console.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Core.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Data.Common.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Data.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Drawing.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Globalization.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.Compression.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Linq.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Memory.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.Http.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.Mail.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.Ping.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.Quic.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.Requests.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.Security.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Numerics.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.ObjectModel.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Reflection.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Claims.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Principal.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Text.Json.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Threading.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Transactions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.ValueTuple.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Web.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Windows.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Xml.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\refs\WindowsBase.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Azure.Core.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Azure.Identity.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Dapper.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Humanizer.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Build.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\NuGet.Common.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Seq.Extensions.Logging.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.Sinks.ColoredConsole.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.Sinks.PeriodicBatching.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Serilog.Sinks.Seq.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.CodeDom.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Framework.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeService.Core.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeService.Core.Services.AppServices.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeService.Core.Services.Services.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeService.Infrastructure.DataAccess.Repo.Ef.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeService.Infrastructure.DataBase.Sql.Dapper.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeService.Infrastructure.DataBase.Sql.Ef.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\Framework.pdb
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeService.Core.Services.AppServices.pdb
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeService.Core.Services.Services.pdb
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeService.Infrastructure.DataAccess.Repo.Ef.pdb
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeService.Infrastructure.DataBase.Sql.Dapper.pdb
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeService.Infrastructure.DataBase.Sql.Ef.pdb
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\bin\Debug\net8.0\HomeService.Core.pdb
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.csproj.AssemblyReference.cache
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.AssemblyInfoInputs.cache
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.AssemblyInfo.cs
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.csproj.CoreCompileInputs.cache
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.MvcApplicationPartsAssemblyInfo.cs
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.RazorAssemblyInfo.cache
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.RazorAssemblyInfo.cs
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.sourcelink.json
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\staticwebassets.build.json
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\staticwebassets.development.json
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\staticwebassets\msbuild.HomeServices.Endpoint.RazorPages.UI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\staticwebassets\msbuild.build.HomeServices.Endpoint.RazorPages.UI.props
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HomeServices.Endpoint.RazorPages.UI.props
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HomeServices.Endpoint.RazorPages.UI.props
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\scopedcss\Areas\Admin\Pages\Shared\_AdminLayout.cshtml.rz.scp.css
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\scopedcss\bundle\HomeServices.Endpoint.RazorPages.UI.styles.css
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\scopedcss\projectbundle\HomeServices.Endpoint.RazorPages.UI.bundle.scp.css
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.csproj.CopyComplete
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\refint\HomeServices.Endpoint.RazorPages.UI.dll
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.pdb
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\HomeServices.Endpoint.RazorPages.UI.genruntimeconfig.cache
+D:\FinalProject\HomeServices.Endpoint.RazorPages.UI\obj\Debug\net8.0\ref\HomeServices.Endpoint.RazorPages.UI.dll

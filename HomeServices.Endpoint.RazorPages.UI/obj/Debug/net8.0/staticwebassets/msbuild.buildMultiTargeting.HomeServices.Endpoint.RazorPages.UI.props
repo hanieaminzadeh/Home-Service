@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HomeServices.Endpoint.RazorPages.UI.props" />
+</Project>

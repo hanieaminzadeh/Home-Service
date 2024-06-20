@@ -1,0 +1,32 @@
+D:\EndProject\Home Service\HomeService.Core.Services.Services\bin\Debug\net8.0\HomeService.Core.Services.Services.deps.json
+D:\EndProject\Home Service\HomeService.Core.Services.Services\bin\Debug\net8.0\HomeService.Core.Services.Services.dll
+D:\EndProject\Home Service\HomeService.Core.Services.Services\bin\Debug\net8.0\HomeService.Core.Services.Services.pdb
+D:\EndProject\Home Service\HomeService.Core.Services.Services\bin\Debug\net8.0\HomeService.Core.dll
+D:\EndProject\Home Service\HomeService.Core.Services.Services\bin\Debug\net8.0\HomeService.Core.pdb
+D:\EndProject\Home Service\HomeService.Core.Services.Services\obj\Debug\net8.0\HomeService.Core.Services.Services.csproj.AssemblyReference.cache
+D:\EndProject\Home Service\HomeService.Core.Services.Services\obj\Debug\net8.0\HomeService.Core.Services.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\EndProject\Home Service\HomeService.Core.Services.Services\obj\Debug\net8.0\HomeService.Core.Services.Services.AssemblyInfoInputs.cache
+D:\EndProject\Home Service\HomeService.Core.Services.Services\obj\Debug\net8.0\HomeService.Core.Services.Services.AssemblyInfo.cs
+D:\EndProject\Home Service\HomeService.Core.Services.Services\obj\Debug\net8.0\HomeService.Core.Services.Services.csproj.CoreCompileInputs.cache
+D:\EndProject\Home Service\HomeService.Core.Services.Services\obj\Debug\net8.0\HomeService.Core.Services.Services.csproj.CopyComplete
+D:\EndProject\Home Service\HomeService.Core.Services.Services\obj\Debug\net8.0\HomeService.Core.Services.Services.dll
+D:\EndProject\Home Service\HomeService.Core.Services.Services\obj\Debug\net8.0\refint\HomeService.Core.Services.Services.dll
+D:\EndProject\Home Service\HomeService.Core.Services.Services\obj\Debug\net8.0\HomeService.Core.Services.Services.pdb
+D:\EndProject\Home Service\HomeService.Core.Services.Services\obj\Debug\net8.0\ref\HomeService.Core.Services.Services.dll
+D:\EndProject\Home Service\HomeService.Core.Services.Services\obj\Debug\net8.0\HomeService.Core.Services.Services.sourcelink.json
+D:\FinalProject\HomeService.Core.Services.Services\bin\Debug\net8.0\HomeService.Core.Services.Services.deps.json
+D:\FinalProject\HomeService.Core.Services.Services\bin\Debug\net8.0\HomeService.Core.Services.Services.dll
+D:\FinalProject\HomeService.Core.Services.Services\bin\Debug\net8.0\HomeService.Core.Services.Services.pdb
+D:\FinalProject\HomeService.Core.Services.Services\bin\Debug\net8.0\HomeService.Core.dll
+D:\FinalProject\HomeService.Core.Services.Services\bin\Debug\net8.0\HomeService.Core.pdb
+D:\FinalProject\HomeService.Core.Services.Services\obj\Debug\net8.0\HomeService.Core.Services.Services.csproj.AssemblyReference.cache
+D:\FinalProject\HomeService.Core.Services.Services\obj\Debug\net8.0\HomeService.Core.Services.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject\HomeService.Core.Services.Services\obj\Debug\net8.0\HomeService.Core.Services.Services.AssemblyInfoInputs.cache
+D:\FinalProject\HomeService.Core.Services.Services\obj\Debug\net8.0\HomeService.Core.Services.Services.AssemblyInfo.cs
+D:\FinalProject\HomeService.Core.Services.Services\obj\Debug\net8.0\HomeService.Core.Services.Services.csproj.CoreCompileInputs.cache
+D:\FinalProject\HomeService.Core.Services.Services\obj\Debug\net8.0\HomeService.Core.Services.Services.sourcelink.json
+D:\FinalProject\HomeService.Core.Services.Services\obj\Debug\net8.0\HomeService.Core.Services.Services.csproj.CopyComplete
+D:\FinalProject\HomeService.Core.Services.Services\obj\Debug\net8.0\HomeService.Core.Services.Services.dll
+D:\FinalProject\HomeService.Core.Services.Services\obj\Debug\net8.0\refint\HomeService.Core.Services.Services.dll
+D:\FinalProject\HomeService.Core.Services.Services\obj\Debug\net8.0\HomeService.Core.Services.Services.pdb
+D:\FinalProject\HomeService.Core.Services.Services\obj\Debug\net8.0\ref\HomeService.Core.Services.Services.dll

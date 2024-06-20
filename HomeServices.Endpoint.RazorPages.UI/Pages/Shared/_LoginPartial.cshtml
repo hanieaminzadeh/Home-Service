@@ -1,0 +1,29 @@
+﻿@using HomeService.Core.Entities
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="Account" asp-page="/Profile" title="پروفایل">@User.Identity?.Name</a>
+    </li>
+    <li class="nav-item">
+        <form class="form-inline" asp-area="Account" asp-page="Logout" asp-route-returnUrl="@Url.Page("/Index", new { area = "" })">
+            <button type="submit" class="btn theme-cl rounded theme-bg-light ft-medium">خروج</button>
+        </form>
+    </li>
+}
+else
+{
+    <li>
+        <a asp-area="Account" asp-page="/Register" asp-page-handler="OnGet" class="ft-bold">
+            <i class="fas fa-sign-in-alt ms-1 theme-cl"></i>ثبت نام
+        </a>
+    </li>
+    <li>
+        <a asp-area="Account" asp-page="/Login" class="ft-bold">
+            <i class="fas fa-sign-in-alt ms-1 theme-cl"></i>ورود
+        </a>
+    </li>
+}

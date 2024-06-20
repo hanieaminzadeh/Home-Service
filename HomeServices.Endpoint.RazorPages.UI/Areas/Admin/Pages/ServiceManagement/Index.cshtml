@@ -1,0 +1,74 @@
+﻿@page
+@using HomeService.Core.Contracts.ServiceContracts
+@using HomeService.Core.Contracts.CategoryContracts
+@inject IServiceAppService ServiceAppService
+@model HomeServices.Endpoint.RazorPages.UI.Areas.Admin.Pages.ServiceManagement.IndexModel
+@{
+    Layout = "Shared/_AdminLayout";
+    ViewData["Title"] = "مدیریت خدمات";
+}
+
+<a href="@Url.Page("Create")" type="button" class="btn rounded-pill btn-info mb-2">افزودن سرویس جدید</a>
+<div class="table-responsive text-nowrap">
+    <table class="table">
+        <thead class="table-dark">
+            <tr>
+                <th>شناسه</th>
+                <th>نام</th>
+                <th>نام دسته بندی</th>
+                <th>توضیحات</th>
+                <th>قیمت</th>
+                <th>تصویر</th>
+                <th>وضعیت</th>
+                <th>عملیات</th>
+            </tr>
+        </thead>
+        <tbody class="table-border-bottom-0">
+            @if (Model.Services != null)
+            {
+                @foreach (var service in await @ServiceAppService.GetAllServices(default))
+                {
+                    @* @if (category.IsDeleted != true)
+            { *@
+                    <tr>
+                        <td>@service.Id</td>
+                        <td>@service.Title</td>
+                        <td>@service.Category.Name</td>
+                        <td>@service.Description</td>
+                        <td>@service.Price</td>
+                        <td>@service.ImgUrl</td>
+                        <td>
+                            @if (service.IsDeleted == true)
+                            {
+                                <form method="post" asp-page-handler="Active">
+                                    <input type="hidden" name="id" value="@service.Id">
+                                    <button class="btn btn-success" type="submit">فعال کردن</button>
+                                </form>
+                            }
+                            else
+                            {
+                                <form method="post" asp-page-handler="DeActive">
+                                    <input type="hidden" name="id" value="@service.Id">
+                                    <button class="btn btn-danger round" type="submit">غیرفعال کردن</button>
+                                </form>
+                            }
+                        </td>
+                        <td>
+
+                            <div class="dropdown">
+                                <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown">
+                                    <i class="bx bx-dots-vertical-rounded"></i>
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" asp-page="Update" asp-route-id="@service.Id" class="bx bx-edit-alt me-1">ویرایش</a>
+                                    <a class="dropdown-item" asp-page-handler="Delete" asp-route-id="@service.Id" onclick="return confirm('Are you sure?')" class="bx bx-trash me-1">حذف</a>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                    @* } *@
+                }
+            }
+        </tbody>
+    </table>
+</div>

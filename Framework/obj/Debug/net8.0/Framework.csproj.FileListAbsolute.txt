@@ -1,0 +1,32 @@
+D:\EndProject\Home Service\Framework\bin\Debug\net8.0\Framework.deps.json
+D:\EndProject\Home Service\Framework\bin\Debug\net8.0\Framework.dll
+D:\EndProject\Home Service\Framework\bin\Debug\net8.0\Framework.pdb
+D:\EndProject\Home Service\Framework\obj\Debug\net8.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\EndProject\Home Service\Framework\obj\Debug\net8.0\Framework.AssemblyInfoInputs.cache
+D:\EndProject\Home Service\Framework\obj\Debug\net8.0\Framework.AssemblyInfo.cs
+D:\EndProject\Home Service\Framework\obj\Debug\net8.0\Framework.csproj.CoreCompileInputs.cache
+D:\EndProject\Home Service\Framework\obj\Debug\net8.0\Framework.dll
+D:\EndProject\Home Service\Framework\obj\Debug\net8.0\refint\Framework.dll
+D:\EndProject\Home Service\Framework\obj\Debug\net8.0\Framework.pdb
+D:\EndProject\Home Service\Framework\obj\Debug\net8.0\ref\Framework.dll
+D:\EndProject\Home Service\Framework\obj\Debug\net8.0\Framework.csproj.AssemblyReference.cache
+D:\EndProject\Home Service\Framework\bin\Debug\net8.0\HomeService.Core.dll
+D:\EndProject\Home Service\Framework\bin\Debug\net8.0\HomeService.Core.pdb
+D:\EndProject\Home Service\Framework\obj\Debug\net8.0\Framework.csproj.CopyComplete
+D:\EndProject\Home Service\Framework\obj\Debug\net8.0\Framework.sourcelink.json
+D:\FinalProject\Framework\bin\Debug\net8.0\Framework.deps.json
+D:\FinalProject\Framework\bin\Debug\net8.0\Framework.dll
+D:\FinalProject\Framework\bin\Debug\net8.0\Framework.pdb
+D:\FinalProject\Framework\bin\Debug\net8.0\HomeService.Core.dll
+D:\FinalProject\Framework\bin\Debug\net8.0\HomeService.Core.pdb
+D:\FinalProject\Framework\obj\Debug\net8.0\Framework.csproj.AssemblyReference.cache
+D:\FinalProject\Framework\obj\Debug\net8.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject\Framework\obj\Debug\net8.0\Framework.AssemblyInfoInputs.cache
+D:\FinalProject\Framework\obj\Debug\net8.0\Framework.AssemblyInfo.cs
+D:\FinalProject\Framework\obj\Debug\net8.0\Framework.csproj.CoreCompileInputs.cache
+D:\FinalProject\Framework\obj\Debug\net8.0\Framework.sourcelink.json
+D:\FinalProject\Framework\obj\Debug\net8.0\Framework.csproj.CopyComplete
+D:\FinalProject\Framework\obj\Debug\net8.0\Framework.dll
+D:\FinalProject\Framework\obj\Debug\net8.0\refint\Framework.dll
+D:\FinalProject\Framework\obj\Debug\net8.0\Framework.pdb
+D:\FinalProject\Framework\obj\Debug\net8.0\ref\Framework.dll
